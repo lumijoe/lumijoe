@@ -1,6 +1,6 @@
 # lumijoe
 
-![Metrics](https://metrics.lecoq.io/lumijoe)
+<!-- ![Metrics](https://metrics.lecoq.io/lumijoe) -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lumijoe&show_icons=true&theme=radical)
 
